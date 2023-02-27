@@ -1,0 +1,27 @@
+.content-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  h1 {
+    color: rgba(0, 0, 0, 0.87);
+    size: 3rem;
+    line-height: 3rem;
+  }
+  .right-container {
+    display: flex;
+    align-items: center;
+  }
+  .select {
+    outline: none;
+    border: none;
+    background: none;
+    border-bottom: 1px solid black;
+    width: 13rem;
+    padding-bottom: 8px;
+  }
+}
+@media (max-width: 767px) {
+  .content-header {
+    flex-direction: column;
+  }
+}

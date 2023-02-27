@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 44" width="112" height="44">
+	<title>New Project</title>
+	<defs>
+		<image  width="112" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAsAQMAAACHYq6EAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAPSURBVHicY2AYBaNgcAEAApQAAVyaoF8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 35px;fill: #ffffff;font-weight: 400;font-family: "Roboto-Regular", "Roboto" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="Qalqul" style="transform: matrix(1,0,0,1,6.684,31.573)" >
+		<tspan x="0" y="0" class="t0">Qalqul
+</tspan>
+	</text>
+</svg>

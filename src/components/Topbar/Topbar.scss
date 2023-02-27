@@ -1,0 +1,17 @@
+.topbar-header {
+  background: #0D2436;
+  padding: 0 7rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  img {
+    width: 7rem;
+    padding: 2rem 0;
+  }
+}
+@media (max-width: 576px) {
+  .topbar-header {
+    display: flex;
+    flex-direction: 'column';
+  }
+}

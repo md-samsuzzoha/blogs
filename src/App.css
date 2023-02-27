@@ -1,0 +1,11 @@
+.img {
+  width: 100%;
+}
+.content-wrapper {
+  margin: 0 10rem;
+}
+@media (max-width: 767px) {
+  .content-wrapper {
+    margin: 0 2rem;
+  }
+}
